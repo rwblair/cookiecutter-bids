@@ -1,0 +1,11 @@
+Quickstart
+----------
+
+Install Cookiecutter::
+
+    pip install -U cookiecutter
+
+Generate dataset::
+
+    cookiecutter https://github.com/rwblair/cookiecutter-bids.git
+
