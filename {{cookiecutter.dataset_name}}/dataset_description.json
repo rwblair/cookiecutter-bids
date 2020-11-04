@@ -1,0 +1,4 @@
+{
+  "Name": "{{ cookiecutter.dataset_name }}",
+  "BIDSVersion": "{{ cookiecutter.bids_version }}"
+}

@@ -1,0 +1,13 @@
+{
+  "dataset_name": "new_dataset",
+  "bids_version": "v1.4.1",
+  "number_of_subjects": 1,
+  "number_of_sessions": 1,
+  "anat": "n",
+  "func": "n",
+  "fmap": "n",
+  "dwi": "n",
+  "eeg": "n",
+  "ieeg": "n",
+  "meg": "n"
+}
